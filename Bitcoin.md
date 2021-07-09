@@ -128,3 +128,28 @@ Rodzaje portfeli:
 - general rules:
   - avoid invest more than 5% into cryptocurrency
   - always invest 'not quickly need' money
+  
+  
+----
+
+## update 09.07.2021
+
+- założyłem konto na bitbay.net
+- czekam na drugi etap weryfikacji
+- informacje ogólne:
+    - "porfel bitcoin" - kawałek sieci Bitcoin, do której masz dostęp tylko Ty. Musisz znać klucz i adres portfela.
+    - "adres portfela" - unikalny ciąg znaków, który jest przypisany tylko do Twojego portfela.
+    - "klucz portfela" - unikalne hasło, które umożliwia dostęp do tego portfela.
+        - przykładowy adres i hasło portfela:
+            - przykładowy adres: "1CC3X2gu58d6wXUWMffpuzN9JAfTUWu4Kj"
+            - przykładowy klucz prywatny: "5Kb8kLf9zgWQnogidDA76MzPL6TsZZY36hWXMssSzNydYXYB9KF"
+- linki przydatne:
+    - ilość transakcji w sieci bitcoin: https://www.blockchain.com/charts/n-transactions?timespan=all
+    - tabela opłat bitbay: https://bitbay.net/pl/tabela-oplat
+    - bitbay - kontakt: https://bitbay.net/pl/pomoc/moje-konto/jak-sie-z-nami-skontaktowac
+- ToDo:
+    1. zaczekaj na wynik weryfikacji 2giego etapu
+    2. aktywuj weryfikacje google authenticator https://bitbay.net/pl/pomoc/moje-konto/jak-korzystac-z-uwierzytelniania-dwuskladnikowego-google-authenticator
+    3. kup za 100zł
+    4. poczytaj kursy - tutaj: https://academy.bitbay.net/
+    5. kursy od mBank https://www.mbank.pl/indywidualny/inwestycje/zanim-zaczniesz/szkolenia-gieldowe-online/
